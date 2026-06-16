@@ -1,3 +1,3 @@
-Clean Architecutre - Data / Domain / Presentation 
-Image Cache Functionality
-SwiftUI
+Clean Architecutre - Data / Domain / Presentation || 
+Image Cache Functionality || 
+SwiftUI || 
